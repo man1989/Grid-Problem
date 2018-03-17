@@ -20,7 +20,7 @@ export default class Login extends Component{
                 <div>
                     <label>
                         <span>username: </span>
-                        <input name="username" type="text" autoComplete="none" onChange={this.handleChange}/>
+                        <input name="username" type="text" autoComplete="off" onChange={this.handleChange}/>
                     </label>
                 </div>
             </form>
