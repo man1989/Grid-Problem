@@ -1,6 +1,6 @@
 # Stream Sequence
 
-###Features:-
+### Features:-
 
 1. display 8*8 grid
 2. define custom sequence
